@@ -1,5 +1,6 @@
 # Swisstronic Testnet Technical 1 Task Hardhat Deploy Contract
 
+## Claim Faucet First HERE(https://faucet.testnet.swisstronik.com/)
 
 
 ## Steps
