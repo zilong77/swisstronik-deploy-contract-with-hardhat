@@ -1,6 +1,5 @@
 # Swisstronic Testnet Technical 1 Task Hardhat Deploy Constract
 
-link : [Click!](https://www.swisstronik.com/testnet2/dashboard)
 
 
 ## Steps
