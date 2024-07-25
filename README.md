@@ -1,4 +1,4 @@
-# Swisstronic Testnet Technical 1 Task Hardhat Deploy Constract
+# Swisstronic Testnet Technical 1 Task Hardhat Deploy Contract
 
 
 
