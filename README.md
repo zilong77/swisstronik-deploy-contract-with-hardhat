@@ -23,6 +23,8 @@ npm install
 ### 3. Set .env File
 
 create .env file in root project
+Fill with your private key
+**NOTE: USE NEW WALLET OR TAKE YOUR OWN RISK**
 
 ```bash
 PRIVATE_KEY="your private key"
