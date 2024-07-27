@@ -3,7 +3,7 @@ import fs from 'fs'
 import path from 'path'
 
 async function main() {
-  const contract = await hre.ethers.deployContract('Swisstronik', ['Hello Swisstronik!!'])
+  const contract = await hre.ethers.deployContract('Swisstronik', ['Hii Swisstronikos'])
 
   await contract.waitForDeployment()
   const contractAddress = await contract.getAddress()
